@@ -5,17 +5,32 @@ public class Persona {
     String nombre;
     String apellido;
     String domicilio;
-    String telefono;
+    int telefono;
+    int socialNumber;
     public Persona() {
     }
-    public Persona(int id, String dni, String nombre, String apellido, String domicilio, String telefono) {
+
+
+    public Persona(int id, String dni, String nombre, String apellido, String domicilio, int telefono, int socialNumber) {
         this.id = id;
         this.dni = dni;
         this.nombre = nombre;
         this.apellido = apellido;
         this.domicilio = domicilio;
         this.telefono = telefono;
+        this.socialNumber = socialNumber;
     }
+
+    public Persona(String nombre, String apellido, String domicilio) {
+        this.nombre = nombre;
+        this.apellido = apellido;
+        this.domicilio = domicilio;
+        this.id += 1;
+        socialNumber = 25;
+
+    }
+
+
 
     public int getId() {
         return id;
@@ -49,6 +64,14 @@ public class Persona {
         this.apellido = apellido;
     }
 
+    public int getSocialNumber() {
+        return socialNumber;
+    }
+
+    public void setSocialNumber(int socialNumber) {
+        this.socialNumber = socialNumber;
+    }
+
     public String getDomicilio() {
         return domicilio;
     }
@@ -57,11 +80,11 @@ public class Persona {
         this.domicilio = domicilio;
     }
 
-    public String getTelefono() {
+    public int getTelefono() {
         return telefono;
     }
 
-    public void setTelefono(String telefono) {
+    public void setTelefono(int telefono) {
         this.telefono = telefono;
     }
 
