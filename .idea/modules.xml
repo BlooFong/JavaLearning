@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/IdeaProjects/Ejercicio integrador/Ejercicio integrador.iml" filepath="$PROJECT_DIR$/IdeaProjects/Ejercicio integrador/Ejercicio integrador.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IdeaProjects/Encapsulamiento/Encapsulamiento.iml" filepath="$PROJECT_DIR$/IdeaProjects/Encapsulamiento/Encapsulamiento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IdeaProjects/INTERFACES/INTERFACES.iml" filepath="$PROJECT_DIR$/IdeaProjects/INTERFACES/INTERFACES.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaLearning.iml" filepath="$PROJECT_DIR$/.idea/JavaLearning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IdeaProjects/Polimorfismo/Polimorfismo.iml" filepath="$PROJECT_DIR$/IdeaProjects/Polimorfismo/Polimorfismo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IdeaProjects/clasesAbstractas/clasesAbstractas.iml" filepath="$PROJECT_DIR$/IdeaProjects/clasesAbstractas/clasesAbstractas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IdeaProjects/herencia/herencia.iml" filepath="$PROJECT_DIR$/IdeaProjects/herencia/herencia.iml" />
+    </modules>
+  </component>
+</project>

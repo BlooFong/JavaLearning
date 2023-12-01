@@ -6,8 +6,8 @@ public class Consultor extends Persona{
     public Consultor(){
 
     }
-    public Consultor(int id, String dni, String nombre, String apellido, String domicilio, String telefono, String nombreDeConsultor, int numConstructor) {
-        super(id, dni, nombre, apellido, domicilio, telefono);
+    public Consultor(int id, String dni, String nombre, String apellido, String domicilio, int telefono, String nombreDeConsultor, int numConstructor, int socialNumber) {
+        super(id, dni, nombre, apellido, domicilio, telefono, socialNumber);
         this.nombreDeConsultor = nombreDeConsultor;
         this.numConstructor = numConstructor;
     }
