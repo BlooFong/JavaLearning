@@ -1,6 +1,6 @@
 package Logica;
 
 public interface IElectrico {
-    public void atkImpactrueno();
-    public void atkPunioTrueno();
+    void atkImpactrueno();
+    void atkPunioTrueno();
 }
