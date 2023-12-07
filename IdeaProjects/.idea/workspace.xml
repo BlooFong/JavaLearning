@@ -8,14 +8,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="052baadd-e388-4044-8ffc-6925816e04f9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Ejercicio integrador/src/Logica/IAgua.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicio integrador/src/Logica/IAgua.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicio integrador/src/Logica/IElectrico.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicio integrador/src/Logica/IElectrico.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicio integrador/src/Logica/IFuego.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicio integrador/src/Logica/IFuego.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicio integrador/src/Logica/IPlanta.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicio integrador/src/Logica/IPlanta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/INTERFACES/src/clasesAbstractas/src/Dibujable.java" beforeDir="false" afterPath="$PROJECT_DIR$/INTERFACES/src/clasesAbstractas/src/Dibujable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/INTERFACES/src/clasesAbstractas/src/Figura.java" beforeDir="false" afterPath="$PROJECT_DIR$/INTERFACES/src/clasesAbstractas/src/Figura.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/INTERFACES/src/clasesAbstractas/src/Rotable.java" beforeDir="false" afterPath="$PROJECT_DIR$/INTERFACES/src/clasesAbstractas/src/Rotable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Polimorfismo/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Polimorfismo/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Excepciones/Excepciones.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Excepciones/src/excepciones/Excepciones.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Relaciones Entre Clases/Relaciones Entre Clases.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Relaciones Entre Clases/src/relaciones/Auto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Relaciones Entre Clases/src/relaciones/Propietario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,24 +38,28 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2YxFtSA8bw7Nibzua8gKJfVOoX2" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Ibrah/Downloads/GitRepository/JavaLearning/IdeaProjects",
-    "run.code.analysis.last.selected.profile": "pProject Default"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;coding&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-21&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Ibrah/Downloads/GitRepository/JavaLearning/IdeaProjects&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
