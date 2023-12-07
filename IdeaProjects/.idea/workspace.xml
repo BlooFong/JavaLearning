@@ -8,13 +8,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="052baadd-e388-4044-8ffc-6925816e04f9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Excepciones/Excepciones.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Excepciones/src/excepciones/Excepciones.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Relaciones Entre Clases/Relaciones Entre Clases.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Relaciones Entre Clases/src/relaciones/Auto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Relaciones Entre Clases/src/relaciones/Propietario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Videojuego xddd/Videojuego xddd.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Videojuego xddd/src/ejerciciovideojuego/EjercicioVideoJuego.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
